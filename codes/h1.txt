@@ -1,0 +1,8 @@
+p=polygon(A,B,4)
+G=intersect(line(E,F),p)
+s=segment(G_1,G_2)
+showlabel(p,false)
+showlabel(s,false)
+showlabel(G_1,false)
+showlabel(G_2,false)
+
